@@ -1,19 +1,33 @@
 # Road-Analysis-Dashboard-
 🚦 ROAD ACCIDENT ANALYSIS DASHBOARD
 
+
+
+
+
+
 👩‍💻 PROJECT BY
+
 Nivedita Shukla
-Aspiring Data Analyst | SQL | Excel | Power BI
+Aspiring Data Analyst | SQL | Advance Excel | Power BI
+
+
+
 
 
 
 📌 PROJECT TITLE
+
 Road Accident Analysis & Insights Dashboard
 An interactive Power BI dashboard designed to explore road accident data, understand accident patterns and present meaningful insights through data visualization.
 
 
 
+
+
+
 📝 PROJECT DESCRIPTION
+
 Road accidents are an important public safety concern. Analyzing accident-related data can help us understand patterns, identify contributing factors and gain a clearer picture of road safety trends.
 In this project, I developed an interactive Road Accident Analysis Dashboard using Microsoft Power BI to transform raw data into meaningful visual insights.
 The dashboard focuses on organizing and analyzing accident-related information through visual reports, charts and key performance indicators (KPIs).
@@ -27,7 +41,10 @@ Generate meaningful insights to support data-driven understanding.
 
 
 
+
+
 🛠️ TECHNOLOGY STACK
+
 The following tools and technologies were used in this project:
 
 Microsoft Power BI
@@ -39,7 +56,10 @@ Calculations and measures
 
 
 
+
+
 📊 DASHBOARD FEATURES & KEY HIGHLIGHTS
+
 The dashboard presents different analytical perspectives to make road accident data easier to understand.
 Key Areas of Analysis:
 KPI Overview: Provides a quick overview of important accident and casualty metrics.
@@ -56,36 +76,42 @@ It also highlights the importance of selecting relevant KPIs, comparing categori
 
 
 
-🖥️ DASHBOARD PREVIEW
-Main Dashboard
-�
-Dashboard preview created using Microsoft Power BI.
-📁 Project Files
-File Name
-Description
-Road_Accident_Dashboard.pdf
-Dashboard report in PDF format
-Road_Accident_Data_Project.png
-Dashboard screenshot
-
-
-
 
 🎯 WHAT I LEARNED
+
 Through this project, I gained practical experience in:
+
 Working with data for analytical purposes.
+
 Creating interactive dashboards in Power BI.
+
 Presenting information through visualizations.
+
 Understanding KPIs and analytical reporting.
+
 Communicating data insights effectively.
 
 
 
 
+
+
 🌱 ABOUT ME
+
 I am an aspiring Data Analyst continuously developing my skills in SQL, Excel and Power BI through practical projects.
+
 My goal is to turn data into meaningful business insights.
+
 ⭐ Thank you for visiting my project repository!
+
+
+
+
+
+
+~ Dashboard Image 
+
+https://drive.google.com/file/d/1ZnJPbBCltyyX0JMr6ExWpNh8j4evuB6x/view?usp=drive_link
 
 
 
